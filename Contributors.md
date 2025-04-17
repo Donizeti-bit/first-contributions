@@ -99,6 +99,7 @@ Matthew Burgos
 - [Roman Sheydvasser](https://github.com/rsheyd)
 - [Lianhuashan](https://github.com/lianhuashanlianhuashan)
 - [Benson Manzano](https://github.com/benson-fm)
+- [Donizeti pires](https://github.com/Donizeti-bit) 
 - [Rene Torres](https://github.com/neco11)
 - [Adarsh Kumar](https://github.com/kumaradarsh2)
 - [Mario Lovamanitra](https://github.com/Hey-Mario)
